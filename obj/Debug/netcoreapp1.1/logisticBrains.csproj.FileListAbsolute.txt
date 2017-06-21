@@ -1,0 +1,8 @@
+C:\Projetos\logisticBrains\bin\Debug\netcoreapp1.1\logisticBrains.deps.json
+C:\Projetos\logisticBrains\bin\Debug\netcoreapp1.1\logisticBrains.runtimeconfig.json
+C:\Projetos\logisticBrains\bin\Debug\netcoreapp1.1\logisticBrains.runtimeconfig.dev.json
+C:\Projetos\logisticBrains\bin\Debug\netcoreapp1.1\logisticBrains.dll
+C:\Projetos\logisticBrains\bin\Debug\netcoreapp1.1\logisticBrains.pdb
+C:\Projetos\logisticBrains\obj\Debug\netcoreapp1.1\logisticBrains.AssemblyInfo.cs
+C:\Projetos\logisticBrains\obj\Debug\netcoreapp1.1\logisticBrains.dll
+C:\Projetos\logisticBrains\obj\Debug\netcoreapp1.1\logisticBrains.pdb
